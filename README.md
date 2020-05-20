@@ -1,0 +1,2 @@
+# easyaspy
+Python notes
