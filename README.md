@@ -20,7 +20,7 @@ Time series plots
 ### Auxiliary stuff
 
 - Learn to stop and start jupyter
-- Store a single script, (say `assignment_b.py` that records your solution for the previous assignment)
+- Store a single script, (say `assignment_b.py`) that records your solution for the previous assignment. We will use it to keep an archive of all your learning -- for your easy reference later. 
 
 ## Assignment B (2020-05-20)
 
