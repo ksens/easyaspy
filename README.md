@@ -1,4 +1,5 @@
-# easyaspy
+# (As) Easy As Py
+
 Python notes
 
 ## Objective 1
