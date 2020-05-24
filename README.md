@@ -8,6 +8,20 @@ Time series plots
 - for few countries (US, China, India, Turkey, Lebanon)
 - total cases, number of deaths in same graph
 
+## Assignment C (2020-05-24)
+
+### Main assignment 
+
+- From the time series data, find sum of all confirmed cases and confirmed deaths from all provinces of China (excluding Wuhan); from start of infection to today's date
+- Now compare the following:
+	- total sum of confirmed cases to date: Wuhan vs. Rest of China
+	- total sum of deaths to date: Wuhan vs. Rest of China
+
+### Auxiliary stuff
+
+- Learn to stop and start jupyter
+- Store a single script, (say `assignment_b.py` that records your solution for the previous assignment)
+
 ## Assignment B (2020-05-20)
 
 ### Main assignment
